@@ -1,0 +1,161 @@
+{
+  "extensionsUsed": [
+    "KHR_materials_transmission",
+    "KHR_materials_clearcoat",
+    "KHR_materials_ior",
+    "KHR_materials_specular",
+    "KHR_materials_emissive_strength",
+    "KHR_texture_transform"
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC3",
+      "max": [
+        4.1000004,
+        3.4,
+        0.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        -8.339999
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 102,
+      "type": "SCALAR",
+      "max": [
+        67.0
+      ],
+      "min": [
+        0.0
+      ]
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC3",
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 68,
+      "type": "VEC2",
+      "max": [
+        0.9999991,
+        0.9999971
+      ],
+      "min": [
+        8.958952E-07,
+        2.9411592E-06
+      ]
+    }
+  ],
+  "asset": {
+    "version": "2.0"
+  },
+  "buffers": [
+    {
+      "uri": "data:application/octet-stream;base64,AAAAAAAAAACQwt3AAAAAAAAAAAAAAAAAAAAAAJqZWUAAAAAAAAAAAJqZWUCQwt3ANDODQJqZWUAAAAAANDODQAAAAAAAAAAANDODQAAAAACQwt3ANDODQJqZWUCQwt3ANDODQAAAwD+jcAXBNDODQAAAAACjcAXB0MycPwAAAACjcAXB0MycPwAAwD+jcAXB0MycPwAAwD+jcAXB0MycPwAAAACjcAXB0MycPwAAAACQwt3A0MycPwAAwD+Qwt3ANDODQAAAwD+Qwt3ANDODQAAAAACQwt3ANDODQAAAAACjcAXBNDODQAAAwD+jcAXBNDODQJqZWUAAAAAAAAAAAJqZWUAAAAAAAAAAADMzE0AAAAAANDODQDMzE0AAAAAAQDOzPjMzE0AAAAAAAAAAADMzE0AAAAAAAAAAAAAAAAAAAAAAQDOzPtejMCsAAAAA0MxMP83M7D8AAAAAQDOzPs3M7D8AAAAAQDOzPtejMCsAAAAA0MxMP9ejMCsAAAAAaGYuQDMzE0AAAAAA0MxMPzMzE0AAAAAA0MxMP9ejMCsAAAAAaGYuQNejMCsAAAAANDODQDMzE0AAAAAA0Mx0QDMzE0AAAAAA0Mx0QNejMCsAAAAANDODQAAAAAAAAAAAAAAAAJqZWUCQwt3ANDODQJqZWUCQwt3ANDODQDMzE0CQwt3AAAAAADMzE0CQwt3AnJlRQDMzE0CQwt3ANDODQDMzE0CQwt3ANDODQAAAAACQwt3AnJlRQAAAAACQwt3AAAAAADMzE0CQwt3A0My8PzMzE0CQwt3A0My8P7geBSyQwt3AAAAAAAAAAACQwt3ANDODQAAAAACQwt3AAAAAAAAAAACQwt3AAAAAAAAAAAAAAAAANDODQAAAAAAAAAAANDODQAAAAACjcAXB0MycPwAAAACjcAXB0MycPwAAAACQwt3ANDODQAAAAACQwt3ANDODQJqZWUCQwt3AAAAAAJqZWUCQwt3AAAAAAJqZWUAAAAAANDODQJqZWUAAAAAANDODQJqZWUCjcAXB0MycP5qZWUCjcAXB0MycP5qZWUCQwt3ANDODQJqZWUCQwt3A",
+      "byteLength": 816
+    },
+    {
+      "uri": "data:application/octet-stream;base64,AAAAAAEAAAACAAAAAAAAAAIAAAADAAAABAAAAAUAAAAGAAAABAAAAAYAAAAHAAAACAAAAAkAAAAKAAAACAAAAAoAAAALAAAADAAAAA0AAAAOAAAADAAAAA4AAAAPAAAAEAAAABEAAAASAAAAEAAAABIAAAATAAAAFAAAABUAAAAWAAAAFAAAABYAAAAXAAAAGAAAABkAAAAaAAAAGAAAABoAAAAbAAAAHAAAAB0AAAAeAAAAHAAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIAAAACIAAAAjAAAAJAAAACUAAAAmAAAAJAAAACYAAAAnAAAAKAAAACkAAAAqAAAAKAAAACoAAAArAAAALAAAAC0AAAAuAAAALAAAAC4AAAAvAAAAMAAAADEAAAAyAAAAMAAAADIAAAAzAAAANAAAADUAAAA2AAAANAAAADYAAAA3AAAAOAAAADkAAAA6AAAAOAAAADoAAAA7AAAAPAAAAD0AAAA+AAAAPAAAAD4AAAA/AAAAQAAAAEEAAABCAAAAQAAAAEIAAABDAAAA",
+      "byteLength": 408
+    },
+    {
+      "uri": "data:application/octet-stream;base64,AACAvwAAAAAmlDUuAACAvwAAAAAmlDUuAACAvwAAAAAklDUuAACAvwAAAAAklDUuAACAPwAAAACrf0KrAACAPwAAAAA0cUKrAACAPwAAAAA0cUKrAACAPwAAAACrf0KrQH0XqwAAAAAAAIC/zHsXqwAAAAAAAIC/zHsXqwAAAAAAAIC/QH0XqwAAAAAAAIC/AACAvwAAAABxz7QuAACAvwAAAABfz7QuAACAvwAAAABfz7QuAACAvwAAAABxz7QuAACAPwAAAABBbNirAACAPwAAAABqdNirAACAPwAAAABqdNirAACAPwAAAABBbNirAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAAAAAAIC/AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAA",
+      "byteLength": 816
+    },
+    {
+      "uri": "data:application/octet-stream;base64,NkLRPrtgRTbx/38/u2BFNvH/fz/P/38/NkLRPs//fz/CNI8+z/9/P8I0jz67YEU2N/leP7tgRTY3+V4/z/9/P3N9cDWq83A9c31wNbtgRTZR4IM+u2BFNlHggz6q83A9wjSPPqrzcD3CNI8+u2BFNogAyT67YEU2iADJPqrzcD0OGmM/qvNwPQ4aYz+7YEU28f9/P7tgRTbx/38/qvNwPWR/iD7iKas5W1OIPuIpqzlbU4g+u2BFNmR/iD67YEU2d1eIPkkaMjpbU4g+SRoyOltTiD67YEU2d1eIPrtgRTakWIg+SGgPOltTiD5IaA86W1OIPrtgRTakWIg+u2BFNvZpiD5JGjI6W1OIPkkaMjpbU4g+u2BFNvZpiD67YEU2lVaIPkkaMjpbU4g+SRoyOltTiD67YEU2lVaIPrtgRTbQeYg+4imrOVtTiD7iKas5W1OIPrtgRTbQeYg+u2BFNgtdiD5JGjI6W1OIPkkaMjpbU4g+u2BFNgtdiD67YEU2rWSIPkkaMjpbU4g+SRoyOltTiD67YEU2rWSIPrtgRTaAg4g+D8UFO1tTiD4PxQU7W1OIPrtgRTaAg4g+u2BFNh11iD5P99o5W1OIPk/32jlbU4g+u2BFNh11iD67YEU2gIOIPg/FBTtbU4g+D8UFO1tTiD67YEU2gIOIPrtgRTYddYg+T/faOVtTiD5P99o5W1OIPrtgRTYddYg+u2BFNg==",
+      "byteLength": 544
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 816,
+      "target": 34962
+    },
+    {
+      "buffer": 1,
+      "byteLength": 408,
+      "target": 34963
+    },
+    {
+      "buffer": 2,
+      "byteLength": 816,
+      "target": 34962
+    },
+    {
+      "buffer": 3,
+      "byteLength": 544,
+      "target": 34962
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          0.9647059,
+          0.56078434,
+          1.0
+        ]
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 1,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9729
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ],
+      "extensions": {}
+    }
+  ],
+  "extensions": {}
+}
