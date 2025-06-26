@@ -14,12 +14,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -0.34,
+        4.2999997,
         2.15,
         -6.6
       ],
       "min": [
-        -1.64,
+        3.0,
         1.0,
         -6.6
       ]
@@ -72,12 +72,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -1.74,
+        2.8999999,
         2.15,
         -6.6
       ],
       "min": [
-        -2.9994829,
+        1.640517,
         1.0,
         -6.6
       ]
@@ -130,12 +130,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -2.9994829,
+        1.640517,
         1.0,
         -6.6
       ],
       "min": [
-        -2.9994829,
+        1.640517,
         3.2221194E-12,
         -7.5
       ]
@@ -188,12 +188,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -4.64,
+        0.0,
         1.0,
         -6.6
       ],
       "min": [
-        -4.64,
+        0.0,
         -1.7703809E-11,
         -7.5
       ]
@@ -222,7 +222,7 @@
       ],
       "min": [
         1.0,
-        -4.440892E-16,
+        0.0,
         0.0
       ]
     },
@@ -246,12 +246,12 @@
       "count": 31,
       "type": "VEC3",
       "max": [
-        -2.9994829,
+        1.640517,
         0.0,
         -6.6
       ],
       "min": [
-        -4.64,
+        0.0,
         0.0,
         -7.8
       ]
@@ -304,12 +304,12 @@
       "count": 66,
       "type": "VEC3",
       "max": [
-        -2.9994829,
+        1.640517,
         1.0,
         -7.5
       ],
       "min": [
-        -4.64,
+        0.0,
         -1.6111724E-12,
         -7.8
       ]
@@ -362,12 +362,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -0.34,
+        4.2999997,
         3.15,
         0.0
       ],
       "min": [
-        -4.64,
+        0.0,
         0.0,
         0.0
       ]
@@ -420,12 +420,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -0.34,
+        4.2999997,
         3.15,
         0.0
       ],
       "min": [
-        -0.34,
+        4.2999997,
         0.0,
         -6.6
       ]
@@ -478,12 +478,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -4.64,
+        0.0,
         3.15,
         0.0
       ],
       "min": [
-        -4.64,
+        0.0,
         0.0,
         -6.6
       ]
@@ -536,12 +536,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -0.34,
+        4.2999997,
         3.15,
         -6.6
       ],
       "min": [
-        -4.64,
+        0.0,
         2.15,
         -6.6
       ]
@@ -594,12 +594,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -4.44,
+        0.19999981,
         2.15,
         -6.6
       ],
       "min": [
-        -4.64,
+        0.0,
         1.6567829E-11,
         -6.6
       ]
@@ -652,12 +652,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -1.64,
+        3.0,
         2.15,
         -6.6
       ],
       "min": [
-        -1.74,
+        2.8999999,
         1.0,
         -6.6
       ]
@@ -710,12 +710,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -0.34,
+        4.2999997,
         1.0,
         -6.6
       ],
       "min": [
-        -2.9994829,
+        1.640517,
         7.786804E-12,
         -6.6
       ]
@@ -768,12 +768,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -2.9994829,
+        1.640517,
         2.15,
         -6.6
       ],
       "min": [
-        -3.1994827,
+        1.4405172,
         8.520008E-12,
         -6.6
       ]
@@ -826,12 +826,12 @@
       "count": 4,
       "type": "VEC3",
       "max": [
-        -0.34,
+        4.2999997,
         0.0,
         0.0
       ],
       "min": [
-        -4.64,
+        0.0,
         0.0,
         -6.6
       ]
@@ -884,7 +884,7 @@
   },
   "buffers": [
     {
-      "uri": "data:application/octet-stream;base64,hevRv5qZCUAzM9PAhevRvwAAgD8zM9PAexSuvpqZCUAzM9PAexSuvgAAgD8zM9PA",
+      "uri": "data:application/octet-stream;base64,AABAQJqZCUAzM9PAAABAQAAAgD8zM9PAmZmJQJqZCUAzM9PAmZmJQAAAgD8zM9PA",
       "byteLength": 48
     },
     {
@@ -900,7 +900,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,h/c/wJqZCUAzM9PAh/c/wAAAgD8zM9PAUrjev5qZCUAzM9PAUrjevwAAgD8zM9PA",
+      "uri": "data:application/octet-stream;base64,dvzRP5qZCUAzM9PAdvzRPwAAgD8zM9PAmZk5QJqZCUAzM9PAmZk5QAAAgD8zM9PA",
       "byteLength": 48
     },
     {
@@ -916,7 +916,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,h/c/wAAAgD8zM9PAh/c/wInBYi0zM9PAh/c/wAAAgD8AAPDAh/c/wIu8YiwAAPDA",
+      "uri": "data:application/octet-stream;base64,dvzRPwAAgD8zM9PAdvzRP4nBYi0zM9PAdvzRPwAAgD8AAPDAdvzRP4u8YiwAAPDA",
       "byteLength": 48
     },
     {
@@ -936,7 +936,7 @@
       "byteLength": 379328
     },
     {
-      "uri": "data:application/octet-stream;base64,4XqUwAAAgD8zM9PA4XqUwAAAgD8AAPDA4XqUwHdgDa0zM9PA4XqUwG+5m60AAPDA",
+      "uri": "data:application/octet-stream;base64,AAAAAAAAgD8zM9PAAAAAAAAAgD8AAPDAAAAAAHdgDa0zM9PAAAAAAG+5m60AAPDA",
       "byteLength": 48
     },
     {
@@ -944,7 +944,7 @@
       "byteLength": 24
     },
     {
-      "uri": "data:application/octet-stream;base64,AACAPwAAAAAAAAAAAACAPwAAAKYAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAA",
+      "uri": "data:application/octet-stream;base64,AACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAAAA",
       "byteLength": 48
     },
     {
@@ -952,7 +952,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,h/c/wAAAAAAzM9PA4XqUwAAAAAAzM9PApXZ0wAAAAACamfnAlr53wAAAAAAAkPnAiAZ7wAAAAAA0c/nAek5+wAAAAAA0Q/nANsuAwAAAAAAAAPnAL2+CwAAAAACaqfjAKBOEwAAAAAAAQPjAIbeFwAAAAAA0w/fAGluHwAAAAAA0M/fAE/+IwAAAAAAAkPbAC6OKwAAAAACa2fXABEeMwAAAAAAAEPXA/eqNwAAAAAA0M/TA7zKRwAAAAAAAQPLA4XqUwAAAAAAAAPDAh/c/wAAAAAAAAPDAa4dGwAAAAAAAQPLAThdNwAAAAAA0M/TAQF9QwAAAAAAAEPXAMqdTwAAAAACa2fXAJO9WwAAAAAAAkPbAFjdawAAAAAA0M/fACH9dwAAAAAA0w/fA+cZgwAAAAAAAQPjA6w5kwAAAAACaqfjA3VZnwAAAAAAAAPnAz55qwAAAAAA0Q/nAweZtwAAAAAA0c/nAsy5xwAAAAAAAkPnA",
+      "uri": "data:application/octet-stream;base64,dvzRPwAAAAAzM9PAAAAAAAAAAAAzM9PAdvxRPwAAAACamfnAr9xEPwAAAAAAkPnA57w3PwAAAAA0c/nAIJ0qPwAAAAA0Q/nAWH0dPwAAAAAAAPnAkV0QPwAAAACaqfjAyj0DPwAAAAAAQPjABTzsPgAAAAA0w/fAdvzRPgAAAAA0M/fA57y3PgAAAAAAkPbAWH2dPgAAAACa2fXAyj2DPgAAAAAAEPXAdvxRPgAAAAA0M/TAdvzRPQAAAAAAQPLAAAAAAAAAAAAAAPDAdvzRPwAAAAAAAPDAr9zEPwAAAAAAQPLA57y3PwAAAAA0M/TABC2xPwAAAAAAEPXAIJ2qPwAAAACa2fXAPA2kPwAAAAAAkPbAWH2dPwAAAAA0M/fAde2WPwAAAAA0w/fAkV2QPwAAAAAAQPjArc2JPwAAAACaqfjAyj2DPwAAAAAAAPnAzFt5PwAAAAA0Q/nABTxsPwAAAAA0c/nAPRxfPwAAAAAAkPnA",
       "byteLength": 372
     },
     {
@@ -968,7 +968,7 @@
       "byteLength": 248
     },
     {
-      "uri": "data:application/octet-stream;base64,h/c/wOcPqiwAAPDAh/c/wAAAgD8AAPDAeT9DwH4cnCyaKfHAeT9DwAAAgD+aKfHAa4dGwHaajiwAQPLAa4dGwAAAgD8AQPLAXc9JwNCJgSw0Q/PAXc9JwAAAgD80Q/PAThdNwBfVaSw0M/TAThdNwAAAgD80M/TAQF9QwFF5USwAEPXAQF9QwAAAgD8AEPXAMqdTwE8AOiya2fXAMqdTwAAAgD+a2fXAJO9WwA9qIywAkPbAJO9WwAAAgD8AkPbAFjdawJO2DSw0M/fAFjdawAAAgD80M/fACH9dwLXL8Ss0w/fACH9dwAAAgD80w/fA+cZgwMnvySsAQPjA+cZgwAAAgD8AQPjA6w5kwGTZoyuaqfjA6w5kwAAAgD+aqfjA3VZnwAsRfysAAPnA3VZnwAAAgD8AAPnAz55qwFr6OSs0Q/nAz55qwAAAgD80Q/nAweZtwG3d8Co0c/nAweZtwAAAgD80c/nAsy5xwIC4aSoAkPnAsy5xwAAAgD8AkPnApXZ0wDs77aSamfnApXZ0wAAAgD+amfnAlr53wJvHW6oAkPnAlr53wAAAgD8AkPnAiAZ7wK6i1Ko0c/nAiAZ7wAAAgD80c/nAek5+wLolGqs0Q/nAek5+wAAAgD80Q/nANsuAwBFvRqsAAPnANsuAwAAAgD8AAPnAL2+CwFotb6uaqfjAL2+CwAAAgD+aqfjAKBOEwEswiqsAQPjAKBOEwAAAgD8AQPjAIbeFwGMEm6s0w/fAIbeFwAAAgD80w/fAGluHwPUSqqs0M/fAGluHwAAAgD80M/fAE/+IwABct6sAkPbAE/+IwAAAgD8AkPbAC6OKwIXfwqua2fXAC6OKwAAAgD+a2fXABEeMwIOdzKsAEPXABEeMwAAAgD8AEPXA/eqNwPuV1Ks0M/TA/eqNwAAAgD80M/TA9o6PwOzI2qs0Q/PA9o6PwAAAgD80Q/PA7zKRwFc236sAQPLA7zKRwAAAgD8AQPLA6NaSwDve4auaKfHA6NaSwAAAgD+aKfHA4XqUwJrA4qsAAPDA4XqUwAAAgD8AAPDA",
+      "uri": "data:application/octet-stream;base64,dvzRP+cPqiwAAPDAdvzRPwAAgD8AAPDAkmzLP34cnCyaKfHAkmzLPwAAgD+aKfHArtzEP3aajiwAQPLArtzEPwAAgD8AQPLAyky+P9CJgSw0Q/PAyky+PwAAgD80Q/PA6Ly3PxfVaSw0M/TA6Ly3PwAAgD80M/TABC2xP1F5USwAEPXABC2xPwAAgD8AEPXAIJ2qP08AOiya2fXAIJ2qPwAAgD+a2fXAPA2kPw9qIywAkPbAPA2kPwAAgD8AkPbAWH2dP5O2DSw0M/fAWH2dPwAAgD80M/fAdO2WP7XL8Ss0w/fAdO2WPwAAgD80w/fAkl2QP8nvySsAQPjAkl2QPwAAgD8AQPjArs2JP2TZoyuaqfjArs2JPwAAgD+aqfjAyj2DPwsRfysAAPnAyj2DPwAAgD8AAPnAzFt5P1r6OSs0Q/nAzFt5PwAAgD80Q/nABDxsP23d8Co0c/nABDxsPwAAgD80c/nAPBxfP4C4aSoAkPnAPBxfPwAAgD8AkPnAdPxRPzs77aSamfnAdPxRPwAAgD+amfnAsNxEP5vHW6oAkPnAsNxEPwAAgD8AkPnA6Lw3P66i1Ko0c/nA6Lw3PwAAgD80c/nAIJ0qP7olGqs0Q/nAIJ0qPwAAgD80Q/nAWH0dPxFvRqsAAPnAWH0dPwAAgD8AAPnAkF0QP1otb6uaqfjAkF0QPwAAgD+aqfjAyD0DP0swiqsAQPjAyD0DPwAAgD8AQPjAADzsPmMEm6s0w/fAADzsPgAAgD80w/fAcPzRPvUSqqs0M/fAcPzRPgAAgD80M/fA4Ly3PgBct6sAkPbA4Ly3PgAAgD8AkPbAYH2dPoXfwqua2fXAYH2dPgAAgD+a2fXA0D2DPoOdzKsAEPXA0D2DPgAAgD8AEPXAgPxRPvuV1Ks0M/TAgPxRPgAAgD80M/TAYH0dPuzI2qs0Q/PAYH0dPgAAgD80Q/PAgPzRPVc236sAQPLAgPzRPQAAgD8AQPLAgPxRPTve4auaKfHAgPxRPQAAgD+aKfHAAAAAAJrA4qsAAPDAAAAAAAAAgD8AAPDA",
       "byteLength": 792
     },
     {
@@ -984,7 +984,7 @@
       "byteLength": 528
     },
     {
-      "uri": "data:application/octet-stream;base64,exSuvpqZSUAAAAAA4XqUwJqZSUAAAAAAexSuvgAAAAAAAAAA4XqUwAAAAAAAAAAA",
+      "uri": "data:application/octet-stream;base64,mZmJQJqZSUAAAAAAAAAAAJqZSUAAAAAAmZmJQAAAAAAAAAAAAAAAAAAAAAAAAAAA",
       "byteLength": 48
     },
     {
@@ -1000,7 +1000,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,exSuvpqZSUAAAAAAexSuvgAAAAAAAAAAexSuvpqZSUAzM9PAexSuvgAAAAAzM9PA",
+      "uri": "data:application/octet-stream;base64,mZmJQJqZSUAAAAAAmZmJQAAAAAAAAAAAmZmJQJqZSUAzM9PAmZmJQAAAAAAzM9PA",
       "byteLength": 48
     },
     {
@@ -1016,7 +1016,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,4XqUwJqZSUAgtnqr4XqUwJqZSUAzM9PA4XqUwAAAAAAAAAAA4XqUwBoB9CszM9PA",
+      "uri": "data:application/octet-stream;base64,AAAAAJqZSUAgtnqrAAAAAJqZSUAzM9PAAAAAAAAAAAAAAAAAAAAAABoB9CszM9PA",
       "byteLength": 48
     },
     {
@@ -1032,7 +1032,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,4XqUwJqZSUAzM9PAexSuvpqZSUAzM9PA4XqUwJqZCUAzM9PAexSuvpqZCUAzM9PA",
+      "uri": "data:application/octet-stream;base64,AAAAAJqZSUAzM9PAmZmJQJqZSUAzM9PAAAAAAJqZCUAzM9PAmZmJQJqZCUAzM9PA",
       "byteLength": 48
     },
     {
@@ -1048,7 +1048,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,4XqUwJqZCUAzM9PAexSOwJqZCUAzM9PA4XqUwG+7kS0zM9PAexSOwG+7kS0zM9PA",
+      "uri": "data:application/octet-stream;base64,AAAAAJqZCUAzM9PAwMxMPpqZCUAzM9PAAAAAAG+7kS0zM9PAwMxMPm+7kS0zM9PA",
       "byteLength": 48
     },
     {
@@ -1064,7 +1064,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,Urjev5qZCUAzM9PAhevRv5qZCUAzM9PAUrjevwAAgD8zM9PAhevRvwAAgD8zM9PA",
+      "uri": "data:application/octet-stream;base64,mZk5QJqZCUAzM9PAAABAQJqZCUAzM9PAmZk5QAAAgD8zM9PAAABAQAAAgD8zM9PA",
       "byteLength": 48
     },
     {
@@ -1080,7 +1080,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,h/c/wAAAgD8zM9PAexSuvgAAgD8zM9PAh/c/wKb8CC0zM9PAexSuvqb8CC0zM9PA",
+      "uri": "data:application/octet-stream;base64,dvzRPwAAgD8zM9PAmZmJQAAAgD8zM9PAdvzRP6b8CC0zM9PAmZmJQKb8CC0zM9PA",
       "byteLength": 48
     },
     {
@@ -1096,7 +1096,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,U8RMwJqZCUAzM9PAh/c/wJqZCUAzM9PAU8RMwLTiFS0zM9PAh/c/wLTiFS0zM9PA",
+      "uri": "data:application/octet-stream;base64,3mK4P5qZCUAzM9PAdvzRP5qZCUAzM9PA3mK4P7TiFS0zM9PAdvzRP7TiFS0zM9PA",
       "byteLength": 48
     },
     {
@@ -1112,7 +1112,7 @@
       "byteLength": 32
     },
     {
-      "uri": "data:application/octet-stream;base64,exSuvgAAAAAzM9PAexSuvgAAAAAAAAAA4XqUwAAAAAAzM9PA4XqUwAAAAAAAAAAA",
+      "uri": "data:application/octet-stream;base64,mZmJQAAAAAAzM9PAmZmJQAAAAAAAAAAAAAAAAAAAAAAzM9PAAAAAAAAAAAAAAAAA",
       "byteLength": 48
     },
     {
